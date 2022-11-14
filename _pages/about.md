@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
- am System Engineer from National University of Colombia graduated in 1994 with a Master of
+I am System Engineer from National University of Colombia graduated in 1994 with a Master of
 Economic sciences from Pontifical Javerian University obtained in 2002 and a specialization in Project
 Management from Colombian School of Engineering Julio Garavito. I am currently pursuing a master’s
 degree in Data Analytic Intelligence from University of the Andes, which is the most prestigious
