@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Eduardo Toledo
     - name: Date of Birth
-      value: 14th March 1879
+      value: September  14 1971
     - name: Languages
-      value: English, German
+      value: Spanish(native), English(B3)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master of Data Analytics Intelligence 
+      institution: University of Los Andes, Colombia
+      year: current
       description:
         - Description 1.
         - Description 2.
@@ -21,13 +21,24 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Project Management Specialization
+      institution: Escuela Colombiana de Ingenieria Julio Garavito
+      year: 2012
       description:
         - Description 1.
         - Description 2.
-
+    - title: Master on Economics Sciences
+      institution: Pontificia Universidad Javeriana
+      year: 2004
+      description:
+        - Description 1.
+        - Description 2.
+  - title: Software Enginnering
+      institution: Universidad Nacional de Colombia
+      year: 1995
+      description:
+        - Description 1.
+        - Description 2.
 - title: Experience
   type: time_table
   contents:
